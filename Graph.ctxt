@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Graph()
+comment1.params=
+comment1.target=void\ reset()
+comment2.params=P
+comment2.target=void\ MarkPoint(Point)
+comment3.params=mm\ cc
+comment3.target=void\ sketch(double,\ double)
+comment4.params=cy
+comment4.target=void\ sketchX(double)
+comment5.params=cx
+comment5.target=void\ sketchY(double)
+comment6.params=
+comment6.target=void\ display()
+numComments=7
